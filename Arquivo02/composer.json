@@ -1,0 +1,16 @@
+{
+    "name": "app/src",
+    "description": "utilizando namespace",
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarah Jandozza",
+            "email": "sjandoza18@gmail.com"
+        }
+    ],
+    "require": {}
+}
